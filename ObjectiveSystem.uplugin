@@ -1,0 +1,33 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ObjectiveSystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Gregor Sönnichsen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ObjectiveSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WeekendUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "UIRoot",
+			"Enabled": true
+		}
+	]
+}
